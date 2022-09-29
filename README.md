@@ -1,5 +1,5 @@
 ### Hi Everyone!
-### My name is Kaichi Inoue, a recent university graduate with B.A. in Data Science at the University of California, Berkeley.
+My name is Kaichi Inoue, a recent university graduate with B.A. in Data Science at the University of California, Berkeley. I used to live in Japan until I graduated from high school there and came to The States to go to college. I am proficient in college-level Data Science knowledge. 
 
 <!--
 **kaichiinoue/kaichiinoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
