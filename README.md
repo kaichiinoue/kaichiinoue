@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Everyone!
+### My name is Kaichi Inoue, a recent university graduate with B.A. in Data Science at the University of California, Berkeley.
 
 <!--
 **kaichiinoue/kaichiinoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
